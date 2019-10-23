@@ -1,0 +1,30 @@
+@model login
+@{
+	ViewData["Title"] = "Login";
+}
+<div class="container">
+    <h1 class="h3 mb-3 font-weight-normal">
+        @ViewData["Title"]
+    </h1>
+    <form asp-action="login">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="usuario" class="control-label"></label>
+            <input asp-for="usuario" class="form-control" />
+            <span asp-validation-for="usuario" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="clave" class="control-label"></label>
+            <input asp-for="clave" type="password" class="form-control" />
+            <span asp-validation-for="clave" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Login" />
+        </div>
+        <!--@if(Model.usuario == null){
+            <div class="form-group">
+                <label>Datos incorrectos</label>
+            </div>
+        }-->
+    </form>
+</div>

@@ -1,0 +1,9 @@
+@using Microsoft.AspNetCore.Http
+@{
+    ViewData["Title"] = "Bienvenido";
+    ViewData["User"] = Context.Session.GetString("Usuario");
+}
+<h1> 
+    @ViewData["Title"]
+    @ViewData["User"]
+</h1>
