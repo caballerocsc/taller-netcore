@@ -35,3 +35,5 @@ D:\Users\Usuario\Documents\GitHub\taller-netcore\obj\Debug\netcoreapp3.0\taller-
 D:\Users\Usuario\Documents\GitHub\taller-netcore\obj\Debug\netcoreapp3.0\taller-netcore.csproj.CopyComplete
 D:\Users\Usuario\Documents\GitHub\taller-netcore\obj\Debug\netcoreapp3.0\Razor\Views\login\Login.cshtml.g.cs
 D:\Users\Usuario\Documents\GitHub\taller-netcore\obj\Debug\netcoreapp3.0\Razor\Views\login\Bienvenido.cshtml.g.cs
+D:\Users\Usuario\Documents\GitHub\taller-netcore\obj\Debug\netcoreapp3.0\Razor\Views\FormContacto\FormContacto.cshtml.g.cs
+D:\Users\Usuario\Documents\GitHub\taller-netcore\obj\Debug\netcoreapp3.0\Razor\Views\FormContacto\Gracias.cshtml.g.cs

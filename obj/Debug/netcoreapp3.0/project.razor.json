@@ -14354,6 +14354,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views\\FormContacto\\FormContacto.cshtml",
+      "TargetPath": "Views\\FormContacto\\FormContacto.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -14366,6 +14371,11 @@
     {
       "FilePath": "Views\\login\\Login.cshtml",
       "TargetPath": "Views\\login\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\FormContacto\\Gracias.cshtml",
+      "TargetPath": "Views\\FormContacto\\Gracias.cshtml",
       "FileKind": "mvc"
     },
     {

@@ -1,7 +1,6 @@
 using System;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-//using mvc_app.Filters;
 using taller_netcore.Models;
 
 namespace taller_netcore.Controllers
@@ -28,10 +27,7 @@ namespace taller_netcore.Controllers
                     Console.WriteLine ("Entro");
                     return RedirectToAction("Bienvenido");
                 }
-                else
-                {
-                    //return RedirectToAction("AuthError");
-                }
+                
             }
             return View(model);
         }
