@@ -37,3 +37,8 @@ D:\Users\Usuario\Documents\GitHub\taller-netcore\obj\Debug\netcoreapp3.0\Razor\V
 D:\Users\Usuario\Documents\GitHub\taller-netcore\obj\Debug\netcoreapp3.0\Razor\Views\login\Bienvenido.cshtml.g.cs
 D:\Users\Usuario\Documents\GitHub\taller-netcore\obj\Debug\netcoreapp3.0\Razor\Views\FormContacto\FormContacto.cshtml.g.cs
 D:\Users\Usuario\Documents\GitHub\taller-netcore\obj\Debug\netcoreapp3.0\Razor\Views\FormContacto\Gracias.cshtml.g.cs
+D:\Users\Usuario\Documents\GitHub\taller-netcore\obj\Debug\netcoreapp3.0\Razor\Views\FormContacto\Error.cshtml.g.cs
+D:\Users\Usuario\Documents\GitHub\taller-netcore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Users\Usuario\Documents\GitHub\taller-netcore\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Users\Usuario\Documents\GitHub\taller-netcore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\Usuario\Documents\GitHub\taller-netcore\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
